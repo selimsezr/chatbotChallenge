@@ -1,5 +1,5 @@
-# Mülakat React Chats
-Bu proje NextJS ve Tailwind kullanılarak yazılmıştır. Proje komponent yapısı ile oluşturulmuştur. Örnek kullanım example.gif dosyasında yer almaktadır.
+# React Chats
+Bu proje NextJS ve Tailwind kullanılarak yazılmıştır. Proje komponent yapısı ile oluşturulmuştur. Örnek kullanım example.gif dosyasında yer almaktadır. Bir buçuk saat içerisnde bitirilmiştir
 
 ## Komponentler ve Değişkenler
 
