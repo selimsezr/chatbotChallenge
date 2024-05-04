@@ -1,5 +1,5 @@
 # React Chats
-Bu proje NextJS ve Tailwind kullanılarak yazılmıştır. Proje komponent yapısı ile oluşturulmuştur. Örnek kullanım example.gif dosyasında yer almaktadır. Bir buçuk saat içerisnde bitirilmiştir
+Bu proje NextJS ve Tailwind kullanılarak yazılmıştır. Proje komponent yapısı ile oluşturulmuştur. Bir buçuk saat içerisnde bitirilmiştir
 
 ## Komponentler ve Değişkenler
 
@@ -11,3 +11,6 @@ Bu proje NextJS ve Tailwind kullanılarak yazılmıştır. Proje komponent yapı
 
 ## Yapı
 Context değişkeninde ve mesaj gönderme işleminde küçük bir değişiklik yaparak sistem hızlı bir şekilde canlı bir sisteme entegre edilebilir ya da farklı senaryolarda veritabanı değişikliği yapılabilir. Sistem oluşturulurken *SOLID* prensipleri ve spagetti kod olmaması gözetilmiştir.
+
+
+![](https://github.com/selimsezr/chatbotChallenge/blob/main/example.gif)
